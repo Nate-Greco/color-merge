@@ -22,8 +22,14 @@ Assembled:
 
 ## BOM
 4 x Cherry MX Switches
+
 16 x SK6812 MINI Leds
+
 1 x XIAO RP2040
+
 4 x Blank DSA Keycaps
+
 7 x M3x16 Bolt
+
 7 x M3 Heatset
+
